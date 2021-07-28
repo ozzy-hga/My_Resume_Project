@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #e4fcff;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(93, 255, 255, 0.308);
+  font-size: medium;
+}
+
+footer {
+  background-color: #b0fcc3;
+  text-align: center;
+}
+
+aside {
+  background-color: rgb(177, 81, 2);
+  border: 2px solid red;
+}
+
+html{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: darkslategrey;
+}
+
+p.challenge{
+  background: palegoldenrod;
+  color: black;
+}
+
+.myDiv{
+  background-color: #cae8ec;
+}
