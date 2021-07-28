@@ -1,0 +1,47 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #e4fcff;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(93, 255, 255, 0.308);
+  font-size: medium;
+  padding-bottom: -50px;
+  margin-bottom: 0px;
+}
+
+footer {
+  background-color: #b0fcc3;
+  text-align: center;
+}
+
+aside {
+  background-color: rgb(177, 81, 2);
+  border: 2px solid red;
+  padding: 20px;
+  margin-top: -15px;
+  
+}
+
+html{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: darkslategrey;
+}
+
+p.challenge {
+  background: palegoldenrod;
+  color: black;
+}
+
+.ImageCircle {
+    border-style: solid;
+    border-color: pink;
+    border-width: 3.5px;
+    border-radius: 200px 200px 200px 200px;
+}
+
+.PadIt {
+    padding-top: 50px;
+}
