@@ -8,7 +8,7 @@ html{
 
 header{
     background-color: hsl(131, 26%, 79%);
-    background-image:url(/DigitalResume/images/bgHeaderImage.png);
+    background-image:url(/images/bgHeaderImage.png);
     background-position:center;
     text-align: center;
     font-size: medium;
