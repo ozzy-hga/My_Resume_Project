@@ -8,7 +8,6 @@ header{
     background-color: hsl(131, 26%, 79%);
     background-image:url(/images/bgHeaderImage.png);
     background-position:center;
-   
     font-size: medium;
     padding-top: 20px;
     margin-bottom: 0px;
@@ -27,12 +26,10 @@ header{
 
 .sideMenu{
     display: block;
-    
     padding: 0px;
 }
 
 article{
-
     background-image: url(/images/email-pattern.png);
     background-repeat: repeat;
 }
@@ -65,4 +62,8 @@ footer{
 @media screen and (min-width: 1200px) {
     aside {background-color:#E9D985;}
     article {background-repeat: repeat;}
+}
+
+div.carouselTestimonialSlides {
+    text-align: center;
 }
